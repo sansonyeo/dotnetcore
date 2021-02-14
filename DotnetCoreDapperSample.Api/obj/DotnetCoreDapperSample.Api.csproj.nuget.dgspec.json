@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHubTemp\\dotnet-core-dapper-sample-master\\DotnetCoreDapperSample.Api\\DotnetCoreDapperSample.Api.csproj": {}
+    "D:\\GitHubTemp\\dotnetcore\\DotnetCoreDapperSample.Api\\DotnetCoreDapperSample.Api.csproj": {}
   },
   "projects": {
-    "D:\\GitHubTemp\\dotnet-core-dapper-sample-master\\DotnetCoreDapperSample.Api\\DotnetCoreDapperSample.Api.csproj": {
+    "D:\\GitHubTemp\\dotnetcore\\DotnetCoreDapperSample.Api\\DotnetCoreDapperSample.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHubTemp\\dotnet-core-dapper-sample-master\\DotnetCoreDapperSample.Api\\DotnetCoreDapperSample.Api.csproj",
+        "projectUniqueName": "D:\\GitHubTemp\\dotnetcore\\DotnetCoreDapperSample.Api\\DotnetCoreDapperSample.Api.csproj",
         "projectName": "DotnetCoreDapperSample.Api",
-        "projectPath": "D:\\GitHubTemp\\dotnet-core-dapper-sample-master\\DotnetCoreDapperSample.Api\\DotnetCoreDapperSample.Api.csproj",
+        "projectPath": "D:\\GitHubTemp\\dotnetcore\\DotnetCoreDapperSample.Api\\DotnetCoreDapperSample.Api.csproj",
         "packagesPath": "C:\\Users\\white\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHubTemp\\dotnet-core-dapper-sample-master\\DotnetCoreDapperSample.Api\\obj\\",
+        "outputPath": "D:\\GitHubTemp\\dotnetcore\\DotnetCoreDapperSample.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -89,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200-preview.21079.7\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

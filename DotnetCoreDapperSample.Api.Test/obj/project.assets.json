@@ -6404,11 +6404,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHubTemp\\dotnet-core-dapper-sample-master\\DotnetCoreDapperSample.Api.Test\\DotnetCoreDapperSample.Api.Test.csproj",
+      "projectUniqueName": "D:\\GitHubTemp\\dotnetcore\\DotnetCoreDapperSample.Api.Test\\DotnetCoreDapperSample.Api.Test.csproj",
       "projectName": "DotnetCoreDapperSample.Api.Test",
-      "projectPath": "D:\\GitHubTemp\\dotnet-core-dapper-sample-master\\DotnetCoreDapperSample.Api.Test\\DotnetCoreDapperSample.Api.Test.csproj",
+      "projectPath": "D:\\GitHubTemp\\dotnetcore\\DotnetCoreDapperSample.Api.Test\\DotnetCoreDapperSample.Api.Test.csproj",
       "packagesPath": "C:\\Users\\white\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHubTemp\\dotnet-core-dapper-sample-master\\DotnetCoreDapperSample.Api.Test\\obj\\",
+      "outputPath": "D:\\GitHubTemp\\dotnetcore\\DotnetCoreDapperSample.Api.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -6429,8 +6429,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\GitHubTemp\\dotnet-core-dapper-sample-master\\DotnetCoreDapperSample.Api\\DotnetCoreDapperSample.Api.csproj": {
-              "projectPath": "D:\\GitHubTemp\\dotnet-core-dapper-sample-master\\DotnetCoreDapperSample.Api\\DotnetCoreDapperSample.Api.csproj"
+            "D:\\GitHubTemp\\dotnetcore\\DotnetCoreDapperSample.Api\\DotnetCoreDapperSample.Api.csproj": {
+              "projectPath": "D:\\GitHubTemp\\dotnetcore\\DotnetCoreDapperSample.Api\\DotnetCoreDapperSample.Api.csproj"
             }
           }
         }
@@ -6473,11 +6473,14 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200-preview.21079.7\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }
