@@ -1,1 +1,1 @@
-# 닷넷 ASP.NET CORE 테스트 레포
+# ASP.NET CORE 테스트 레포
